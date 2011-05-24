@@ -19,7 +19,6 @@ PRODUCT_COPY_FILES := \
     vendor/motorola/sholes/proprietary/libmoto_gps.so:obj/lib/libmoto_gps.so \
     vendor/motorola/sholes/proprietary/libcamera.so:obj/lib/libcamera.so \
     vendor/motorola/sholes/proprietary/libaudio.so:obj/lib/libaudio.so \
-    vendor/motorola/sholes/proprietary/libaudiopolicy.so:obj/lib/libaudiopolicy.so \
     vendor/motorola/sholes/proprietary/libril_rds.so:obj/lib/libril_rds.so \
     vendor/motorola/sholes/proprietary/libnmea.so:obj/lib/libnmea.so \
     vendor/motorola/sholes/proprietary/gralloc.omap3.so:obj/lib/hw/gralloc.omap3.so \
@@ -34,7 +33,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/sholes/proprietary/libmoto_gps.so:/system/lib/libmoto_gps.so \
     vendor/motorola/sholes/proprietary/libcamera.so:/system/lib/libcamera.so \
     vendor/motorola/sholes/proprietary/libaudio.so:/system/lib/libaudio.so \
-    vendor/motorola/sholes/proprietary/libaudiopolicy.so:/system/lib/libaudiopolicy.so \
     vendor/motorola/sholes/proprietary/libril_rds.so:/system/lib/libril_rds.so \
     vendor/motorola/sholes/proprietary/libnmea.so:/system/lib/libnmea.so \
     vendor/motorola/sholes/proprietary/libEGL_POWERVR_SGX530_121.so:/system/lib/egl/libEGL_POWERVR_SGX530_121.so \
