@@ -45,7 +45,6 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/sholes/proprietary/libIMGegl.so:/system/lib/libIMGegl.so \
     vendor/motorola/sholes/proprietary/libinterstitial.so:/system/lib/libinterstitial.so \
     vendor/motorola/sholes/proprietary/libLCML.so:/system/lib/libLCML.so \
-    vendor/motorola/sholes/proprietary/liblvmxipc.so:/system/lib/liblvmxipc.so \
     vendor/motorola/sholes/proprietary/libmoto_ril.so:/system/lib/libmoto_ril.so \
     vendor/motorola/sholes/proprietary/liboemcamera.so:/system/lib/liboemcamera.so \
     vendor/motorola/sholes/proprietary/libOMX.TI.AAC.decode.so:/system/lib/libOMX.TI.AAC.decode.so \
