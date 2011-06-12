@@ -76,14 +76,12 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/sholes/proprietary/tcmd:/system/bin/tcmd \
     vendor/motorola/sholes/proprietary/01_Vendor_ti_omx.cfg:/system/etc/01_Vendor_ti_omx.cfg \
     vendor/motorola/sholes/proprietary/cameraCalFileDef.bin:/system/etc/cameraCalFileDef.bin \
-    vendor/motorola/sholes/proprietary/contributors.css:/system/etc/contributors.css \
     vendor/motorola/sholes/proprietary/excluded-input-devices.xml:/system/etc/excluded-input-devices.xml \
     vendor/motorola/sholes/proprietary/wl1271.bin:/system/etc/firmware/wl1271.bin \
     vendor/motorola/sholes/proprietary/gps.conf:/system/etc/gps.conf \
     vendor/motorola/sholes/proprietary/key_code_map.txt:/system/etc/motorola/12m/key_code_map.txt \
     vendor/motorola/sholes/proprietary/pppd-ril.options:/system/etc/ppp/peers/pppd-ril.options \
     vendor/motorola/sholes/proprietary/pvplayer_mot.cfg:/system/etc/pvplayer_mot.cfg \
-    vendor/motorola/sholes/proprietary/google_generic_update.txt:/system/etc/updatecmds/google_generic_update.txt \
     vendor/motorola/sholes/proprietary/fw_wlan1271.bin:/system/etc/wifi/fw_wlan1271.bin \
     vendor/motorola/sholes/proprietary/baseimage.dof:/system/lib/dsp/baseimage.dof \
     vendor/motorola/sholes/proprietary/conversions.dll64P:/system/lib/dsp/conversions.dll64P \
