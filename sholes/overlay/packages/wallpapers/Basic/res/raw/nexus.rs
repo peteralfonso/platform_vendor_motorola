@@ -16,8 +16,8 @@
 #pragma stateVertex(PVOrtho)
 #pragma stateStore(PSSolid)
 
-#define MAX_PULSES           20
-#define MAX_EXTRAS           40
+#define MAX_PULSES           15
+#define MAX_EXTRAS           30
 #define PULSE_SIZE           14 // Size in pixels of a cell
 #define HALF_PULSE_SIZE      7
 #define GLOW_SIZE            64 // Size of the leading glow in pixels
@@ -26,7 +26,7 @@
 #define SPEED_VARIANCE       0.3f
 #define PULSE_NORMAL         0
 #define PULSE_EXTRA          1
-#define TRAIL_SIZE           40 // Number of cells in a trail
+#define TRAIL_SIZE           30 // Number of cells in a trail
 #define MAX_DELAY	         2000 // Delay between a pulse going offscreen and restarting
 
 struct pulse_s {
