@@ -57,12 +57,9 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/sholes/proprietary/libpppd_plugin-ril.so:/system/lib/libpppd_plugin-ril.so \
     vendor/motorola/sholes/proprietary/libpvr2d.so:/system/lib/libpvr2d.so \
     vendor/motorola/sholes/proprietary/libpvrANDROID_WSEGL.so:/system/lib/libpvrANDROID_WSEGL.so \
-    vendor/motorola/sholes/proprietary/libspeech.so:/system/lib/libspeech.so \
     vendor/motorola/sholes/proprietary/libsrv_um.so:/system/lib/libsrv_um.so \
     vendor/motorola/sholes/proprietary/libVendor_ti_omx.so:/system/lib/libVendor_ti_omx.so \
     vendor/motorola/sholes/proprietary/libVendor_ti_omx_config_parser.so:/system/lib/libVendor_ti_omx_config_parser.so \
-    vendor/motorola/sholes/proprietary/libzxing.so:/system/lib/libzxing.so \
-    vendor/motorola/sholes/proprietary/zxing.so:/system/lib/zxing.so \
     vendor/motorola/sholes/proprietary/akmd2:/system/bin/akmd2 \
     vendor/motorola/sholes/proprietary/ap_gain.bin:/system/bin/ap_gain.bin \
     vendor/motorola/sholes/proprietary/battd:/system/bin/battd \
@@ -105,5 +102,4 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/sholes/proprietary/sholes-keypad.kcm.bin:/system/usr/keychars/sholes-keypad.kcm.bin \
     vendor/motorola/sholes/proprietary/cpcap-key.kl:/system/usr/keylayout/cpcap-key.kl \
     vendor/motorola/sholes/proprietary/sholes-keypad.kl:/system/usr/keylayout/sholes-keypad.kl
-
 
